@@ -1,6 +1,7 @@
 # Diferença entre classe e objeto:
 
 -> Classe é uma abstração de uma entitade do mundo real, de modo a representá-la suas características propriedades/atributos, métodos, funções.
+
 -> Objeto é uma instância da Classe. Ela herda tais propriedades e pode preenchê-las/dotá-las de sentido, propósito e dimensões.
 
 # Construtores
